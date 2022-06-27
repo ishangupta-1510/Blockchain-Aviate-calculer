@@ -1,0 +1,105 @@
+.wi {
+  opacity: 0.7;
+  background: url("../files/blockchain.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  color: antiquewhite;
+  font-size: 50px;
+  padding-bottom: 10px;
+  margin-bottom: 55px;
+}
+.gp {
+  padding-top: 1.6em;
+  font-size: 1.4em;
+}
+.gq {
+  font-size: 0.5em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+@media only screen and (min-width: 1472px) and (max-width: 1640px){
+  .gq {
+    font-size: 2.6vh;
+  }
+  .gp {
+    font-size: 8vh;
+  }
+}
+@media only screen and (min-width: 1332px) and (max-width: 1471px){
+  .gq {
+    font-size: 2.3vh;
+  }
+  .gp {
+    font-size: 7vh;
+  }
+}
+@media only screen and (min-width: 1117px) and (max-width: 1331px){
+  .gq {
+    font-size: 2.3vh;
+  }
+  .gp {
+    font-size: 7vh;
+  }
+}
+@media only screen and (min-width: 1102px) and (max-width: 1116px){
+  .gq {
+    font-size: 2.1vh;
+  }
+  .gp {
+    font-size: 6.7vh;
+  }
+}
+@media only screen and (min-width:994px) and (max-width: 1101px){
+  .gq {
+    font-size: 2.15vh;
+  }
+  .gp {
+    font-size: 7vh;
+  }
+}
+@media only screen and (min-width: 862px) and (max-width: 993px){
+  .gq {
+    font-size: 0.38em;
+  }
+  .gp {
+    padding-top: 1.6em;
+    font-size: 1.2em;
+  }
+}
+ @media only screen and (min-width: 746px) and (max-width: 861px){
+  .gq {
+    font-size: 0.34em;
+  }
+  .gp {
+    padding-top: 1.6em;
+    font-size: 1.2em;
+  }
+} 
+@media only screen and (min-width: 640px) and (max-width: 745px){
+  .gq {
+    font-size: 0.32em;
+  }
+  .gp {
+    padding-top: 1.6em;
+    font-size: 1.2em;
+  }
+} 
+@media only screen and (min-width: 530px) and (max-width: 639px){
+  .gq {
+    font-size: 0.3em;
+  }
+  .gp {
+    padding-top: 1.6em;
+    font-size: 1em;
+  }
+} 
+@media only screen and (min-width: 0px) and (max-width: 529px){
+  .gq {
+    font-size: 0.3em;
+  }
+  .gp {
+    padding-top: 1.6em;
+    font-size: 0.7em;
+  }
+} 
