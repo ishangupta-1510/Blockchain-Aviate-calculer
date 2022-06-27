@@ -1,8 +1,7 @@
-#Project Images
-
-https://github.com/ishangupta-1510/Blockchain-Aviate/blob/main/Screenshot%20from%202022-06-27%2010-01-49.png
-https://github.com/ishangupta-1510/Blockchain-Aviate/blob/main/Screenshot%20from%202022-06-27%2010-02-00.png
-https://github.com/ishangupta-1510/Blockchain-Aviate/blob/main/Screenshot%20from%202022-06-27%2010-02-07.png
+# Project Images
+![alt text](https://github.com/ishangupta-1510/Blockchain-Aviate/blob/main/Screenshot%20from%202022-06-27%2010-01-49.png?raw=true)
+![alt text](https://github.com/ishangupta-1510/Blockchain-Aviate/blob/main/Screenshot%20from%202022-06-27%2010-02-00.png?raw=true)
+![alt text](https://github.com/ishangupta-1510/Blockchain-Aviate/blob/main/Screenshot%20from%202022-06-27%2010-02-07.png?raw=true)
 
 
 # Getting Started with Create React App
