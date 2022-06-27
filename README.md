@@ -1,3 +1,5 @@
+This is a project created using react.js describing about blockchain and has a inbuilt currency converter which gets value of the currency from "https://blockchain.info/ticker"
+
 # Project Images
 ![alt text](https://github.com/ishangupta-1510/Blockchain-Aviate/blob/main/Screenshot%20from%202022-06-27%2010-01-49.png?raw=true)
 ![alt text](https://github.com/ishangupta-1510/Blockchain-Aviate/blob/main/Screenshot%20from%202022-06-27%2010-02-00.png?raw=true)
